@@ -7,4 +7,7 @@ To view this web page,  open index.html
 
 # Screen Shot of WebPage
 ![](Screen%20Shot%202018-11-07%20at%2010.20.19%20PM.png)
-Picture 1:
+<br>
+
+</br> 
+To view more screen shots, click on the screen shots attached. 
