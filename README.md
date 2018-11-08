@@ -6,4 +6,4 @@ Bootstrap4 and font-awesome 4.7 are added to HTML with cdn
 To view this web page,  open index.html
 
 
-![](Screen Shot 2018-11-07 at 10.20.19 PM.png)
+![](Screen%20Shot%202018-11-07%20at%2010.20.19%20PM.png)
