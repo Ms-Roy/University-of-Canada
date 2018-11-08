@@ -9,7 +9,25 @@ To view this web page,  open index.html
 ![](Screen%20Shot%202018-11-07%20at%2010.20.19%20PM.png)
 Picture 1:
 
-
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 ![](Screen%20Shot%202018-11-07%20at%2010.20.33%20PM.png)
 Picture 2: 
 
