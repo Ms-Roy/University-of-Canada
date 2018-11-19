@@ -7,6 +7,10 @@ To view this web page,  open index.html
 
 # Screen Shot of WebPage
 ![](Screen%20Shot%202018-11-07%20at%2010.20.19%20PM.png)
-
+![](Screen%20Shot%202018-11-07%20at%2010.20.33%20PM.png)
+![](Screen%20Shot%202018-11-07%20at%2010.20.48%20PM.png)
+![](Screen%20Shot%202018-11-07%20at%2010.20.59%20PM.png)
+![](Screen%20Shot%202018-11-07%20at%2010.20.59%20PM.png)
+![](Screen%20Shot%202018-11-07%20at%2010.21.08%20PM.png)
 
 To view more of the screen shots of this app, you can click on the pictures named "screen shots" 
